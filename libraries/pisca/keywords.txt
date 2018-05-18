@@ -1,0 +1,3 @@
+pisca	KEYWORD1	pisca
+ligar	KEYWORD2
+desligar	KEYWORD2
