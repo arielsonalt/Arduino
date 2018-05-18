@@ -57,19 +57,19 @@ void desligarVermelhoCarro(){
 }
 
 void informacoesMontagem(){
-Serial.write("*****Informacoes Montagem*****");
-Serial.write("O led verde para o carro se encotra na porta 13;");
-Serial.write("O led amarelo para o carro se encotra na porta 12;");
-Serial.write("O led vermlho para o carro se encotra na porta 11;");
-Serial.write("O led verde para o pedestre se encotra na porta 9;");
-Serial.write("O led vermelho para o pedestre se encotra na porta 8;");
-Serial.write("*****");
+Serial.println("*****Informacoes Montagem*****");
+Serial.println("O led verde para o carro se encotra na porta 13;");
+Serial.println("O led amarelo para o carro se encotra na porta 12;");
+Serial.println("O led vermlho para o carro se encotra na porta 11;");
+Serial.println("O led verde para o pedestre se encotra na porta 9;");
+Serial.println("O led vermelho para o pedestre se encotra na porta 8;");
+Serial.println("*****");
 }
 void informacoesExercicio(){
-Serial.write("*****Informacoes Exercicio*****");
-Serial.write("Exercicio para a construir uma simulacao de um semafaro para carro e um para pedestre sobre a mesma rua, 
+Serial.println("*****Informacoes Exercicio*****");
+Serial.println("Exercicio para a construir uma simulacao de um semafaro para carro e um para pedestre sobre a mesma rua, 
 \n o semafao deve estar vermelho para o carro quando o verde estivar para o pedestre, e vice-versa, lembrando que o semafaro do carro possui o amarelo. ");
-Serial.write("*****");
+Serial.println("*****");
 
 }
 
