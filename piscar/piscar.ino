@@ -1,15 +1,16 @@
 #include <pisca.h>
-void setup() {
+
+
+void main() {
   inicializar();
-  while(true){
-  
-  ligar();
-  delay(1000);
-  desligar();
+  while (true) {
+
+    ligarLed();
+    delay(1000);
+    desligarLed();
     delay(1000);
 
   }
+
 }
 
-void loop(){
-  }
