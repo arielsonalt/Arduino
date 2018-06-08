@@ -1,6 +1,4 @@
 #include <pisca.h>
-
-
 void main() {
   inicializar();
   while (true) {

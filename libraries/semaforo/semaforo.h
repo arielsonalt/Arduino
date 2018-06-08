@@ -1,5 +1,6 @@
 #ifndef SEMAFORO_H_INCLUDED
 #define SEMAFORO_H_INCLUDED
+#define main setup
 #include <Arduino.h>
 
 
