@@ -1,0 +1,7 @@
+pisca	KEYWORD1
+ligarLedVerde	KEYWORD2
+ligarLedVermelho	KEYWORD2
+ligarLedAmarelo	KEYWORD2
+desligarLedVerde	KEYWORD2
+desligarLedVermelho	KEYWORD2
+desligarLedAmarelo	KEYWORD2
