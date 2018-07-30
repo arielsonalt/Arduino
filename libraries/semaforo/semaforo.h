@@ -10,18 +10,18 @@ void inicializar() {
 	pinMode(12, OUTPUT);
 }
 
-void ligarLedVermelha() {
+void ligarLedVermelho() {
 	digitalWrite(8, HIGH);
 }
 
-void desligarLedVermelha() {
+void desligarLedVermelho() {
 	digitalWrite(8, LOW);
 }
-dvoid ligarLedAmarela() {
+void ligarLedAmarelo() {
 	digitalWrite(10, HIGH);
 }
 
-void desligarLedAmarela() {
+void desligarLedAmarelo() {
 	digitalWrite(10, LOW);
 }
 
