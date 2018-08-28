@@ -3,13 +3,13 @@ void main() {
   inicializar();
   while (true) {
     ligarLedVerde();
-    delay(3000);
+    delay(5000);
     desligarLedVerde();
     ligarLedAmarelo();
-    delay(1000);
+    delay(2000);
     desligarLedAmarelo();
     ligarLedVermelho();
-    delay(3000);
+    delay(5000);
     desligarLedVermelho();
     
     }}
