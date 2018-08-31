@@ -1,0 +1,10 @@
+cidademaluca	KEYWORD1
+ligarLedVermelhaCarro	KEYWORD2
+desligarLedVermelhaCarro	KEYWORD2
+ligarLedVermelhaPedestre	KEYWORD2
+desligarLedVermelhaPedestre	KEYWORD2
+ligarLedVerdePedestre	KEYWORD2
+desligarLedVerdePedestre	KEYWORD2
+ligarLedVerdeCarro	KEYWORD2
+desligarLedVerdeCarro	KEYWORD2
+tocarBuzina	KEYWORD2
