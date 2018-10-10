@@ -83,7 +83,15 @@ void tocarBuzina() {
     delay(tempo / 2); 
   }
 }
-
+void informacoesMontagem(){
+Serial.println("*****Informacoes Montagem*****");
+Serial.println("O led verde para o carro se encontra na porta 8;");
+Serial.println("O led vermelho para o carro se encontra na porta 2;");
+Serial.println("O led verde para o pedestre se encontra na porta 6;");
+Serial.println("O led vermelho para o pedestre se encontra na porta 4;");
+Serial.println("O buzzer(speaker) se encontra na porta 10;");
+Serial.println("*****");
+}
 
 #endif // SEMAFORO_H_INCLUDED
 

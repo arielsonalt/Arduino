@@ -33,5 +33,13 @@ void desligarLedVerde() {
 	digitalWrite(12, LOW);
 }
 
+void informacoesMontagem(){
+Serial.println("*****Informacoes Montagem*****");
+Serial.println("O led verde se encontra na porta 12;");
+Serial.println("O led amarelo se encontra na porta 10;");
+Serial.println("O led vermelho se encontra na porta 8;");
+Serial.println("*****");
+}
+
 #endif // SEMAFORO_H_INCLUDED
 

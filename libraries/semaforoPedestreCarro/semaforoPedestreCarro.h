@@ -65,13 +65,6 @@ Serial.println("O led verde para o pedestre se encontra na porta 9;");
 Serial.println("O led vermelho para o pedestre se encontra na porta 8;");
 Serial.println("*****");
 }
-void informacoesExercicio(){
-Serial.println("*****Informacoes Exercicio*****");
-Serial.println("Exercicio para a construir uma simulacao de um semafaro para carro e um para pedestre sobre a mesma rua, 
-\n o semaforo deve estar vermelho para o carro quando o verde estivar para o pedestre, e vice-versa, lembrando que o semaforo do carro possui o amarelo. ");
-Serial.println("*****");
-
-}
 
 
 #endif // PISCA_H_INCLUDED
